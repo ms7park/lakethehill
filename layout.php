@@ -15,7 +15,8 @@
   <!-- <link rel="mask-icon" href="https://static.wixstatic.com/media/06ec85_5f0be87966394320a1650635bf4985f4%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/06ec85_5f0be87966394320a1650635bf4985f4%7Emv2.jpg"> -->
 
   <!-- Original trials -->
-  
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 
   <!-- Legacy Polyfills -->
   <script nomodule="" src="./layout_files/minified.js"></script>
@@ -923,9 +924,390 @@ font-display: swap;
 
 
 
-<?php
-    include "common/_top_menu.php"
-?>
+<div id="SITE_CONTAINER">
+    <div id="main_MF" class="main_MF">
+        <div id="SCROLL_TO_TOP" class="Vd6aQZ ignore-focus SCROLL_TO_TOP" tabindex="-1" role="region"
+             aria-label="top of page"><span class="mHZSwn">top of page</span></div>
+        <button id="SKIP_TO_CONTENT_BTN" class="SKIP_TO_CONTENT_BTN LHrbPP has-custom-focus" tabindex="0">메인 콘텐츠로 바로가기
+        </button>
+        <div id="BACKGROUND_GROUP" class="backgroundGroup_lpf3c BACKGROUND_GROUP">
+            <div id="BACKGROUND_GROUP_TRANSITION_GROUP">
+                <div id="pageBackground_qswdz" data-media-height-override-type="" data-media-position-override="false"
+                     class="pageBackground_qswdz BmZ5pC">
+                    <div id="bgLayers_pageBackground_qswdz" data-hook="bgLayers" data-motion-part="BG_LAYER"
+                         class="MW5IWV">
+                        <div data-testid="colorUnderlay" class="LWbAav Kv1aVt"></div>
+                        <div id="bgMedia_pageBackground_qswdz" data-motion-part="BG_MEDIA" class="VgO9Yg"></div>
+                        <div data-testid="bgOverlay" class="m4khSP"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="site-root" class="site-root">
+            <div id="masterPage" class="mesh-layout remove-wrappers masterPage css-editing-scope">
+
+                <?php
+                include "common/_top_menu.php"
+                ?>
+
+                <main id="PAGES_CONTAINER" class="PAGES_CONTAINER" tabindex="-1" data-main-content="true">
+                    <div id="SITE_PAGES" class="JsJXaX SITE_PAGES">
+                        <div id="SITE_PAGES_TRANSITION_GROUP" class="AnQkDU">
+                            <div id="lpf3c" class="dBAkHi lpf3c">
+                                <div class="PFkO7r wixui-page" data-testid="page-bg"></div>
+                                <div class="HT5ybB">
+                                    <div id="Containerlpf3c" class="Containerlpf3c SPY_vo">
+                                        <div data-mesh-id="Containerlpf3cinlineContent" data-testid="inline-content"
+                                             class="">
+                                            <div data-mesh-id="Containerlpf3cinlineContent-gridContainer"
+                                                 data-testid="mesh-container-content">
+                                                <section id="comp-lb5z0mfl1" tabindex="-1"
+                                                         class="Oqnisf comp-lb5z0mfl1 wixui-section"
+                                                         data-block-level-container="ClassicSection">
+                                                    <div id="bgLayers_comp-lb5z0mfl1" data-hook="bgLayers"
+                                                         data-motion-part="BG_LAYER" class="MW5IWV">
+                                                        <div data-testid="colorUnderlay" class="LWbAav Kv1aVt"></div>
+                                                        <div id="bgMedia_comp-lb5z0mfl1" data-motion-part="BG_MEDIA"
+                                                             class="VgO9Yg"></div>
+                                                    </div>
+                                                    <div data-mesh-id="comp-lb5z0mfl1inlineContent"
+                                                         data-testid="inline-content" class="">
+                                                        <div data-mesh-id="comp-lb5z0mfl1inlineContent-gridContainer"
+                                                             data-testid="mesh-container-content">
+                                                            <div id="comp-k7e3pgob"
+                                                                 class="MazNVa comp-k7e3pgob wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-k7e3pgob"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-k7e3pgob&quot;,&quot;displayMode&quot;:&quot;stretch&quot;,&quot;targetWidth&quot;:981,&quot;targetHeight&quot;:201,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:2286,&quot;height&quot;:558,&quot;uri&quot;:&quot;06ec85_5a104c8272d44420b1fd067ee9d71bef~mv2.jpg&quot;,&quot;name&quot;:&quot;00.jpg&quot;,&quot;displayMode&quot;:&quot;stretch&quot;,&quot;hasAnimation&quot;:false,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/00(1).jpg"
+                                                                                alt="광교레이크더힐 주택전시관" width="981" height="201"
+                                                                                srcset="https://static.wixstatic.com/media/06ec85_5a104c8272d44420b1fd067ee9d71bef~mv2.jpg/v1/fill/w_981,h_239,al_c,q_80,usm_1.20_1.00_0.01,enc_auto/00.jpg 1x, https://static.wixstatic.com/media/06ec85_5a104c8272d44420b1fd067ee9d71bef~mv2.jpg/v1/fill/w_1962,h_479,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/00.jpg 2x"
+                                                                                fetchpriority="high"
+                                                                                style="width: 981px; height: 201px; object-fit: fill;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvvzv"
+                                                                 class="MazNVa comp-m1afvvzv wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvvzv"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvvzv&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_bef1edec42be4886b3e66d6403523d3b~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (15).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (15).jpg"
+                                                                                alt="광교레이크더힐 입지" width="979" height="677"
+                                                                                srcset="https://static.wixstatic.com/media/06ec85_bef1edec42be4886b3e66d6403523d3b~mv2.jpg/v1/fill/w_979,h_677,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20(15).jpg 1x, https://static.wixstatic.com/media/06ec85_bef1edec42be4886b3e66d6403523d3b~mv2.jpg/v1/fill/w_1958,h_1354,al_c,q_90,usm_1.20_1.00_0.01,enc_auto/%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20(15).jpg 2x"
+                                                                                fetchpriority="high"
+                                                                                style="width: 979px; height: 677px; object-fit: cover;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvvzy"
+                                                                 class="MazNVa comp-m1afvvzy wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvvzy"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvvzy&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_ecf9be1e19d043619f24a8f654c125f3~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (16).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (16).jpg"
+                                                                                alt="삼성전자 디지털시티 배후수요" width="979"
+                                                                                height="677"
+                                                                                srcset="https://static.wixstatic.com/media/06ec85_ecf9be1e19d043619f24a8f654c125f3~mv2.jpg/v1/fill/w_979,h_677,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20(16).jpg 1x, https://static.wixstatic.com/media/06ec85_ecf9be1e19d043619f24a8f654c125f3~mv2.jpg/v1/fill/w_1958,h_1354,al_c,q_90,usm_1.20_1.00_0.01,enc_auto/%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%20(16).jpg 2x"
+                                                                                fetchpriority="high"
+                                                                                style="width: 979px; height: 677px; object-fit: cover;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvvzz"
+                                                                 class="MazNVa comp-m1afvvzz wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvvzz"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvvzz&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_192f040db2fa4df9b107f455277e7606~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (17).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (17).jpg"
+                                                                                alt="광교레이크더힐 입지 프리미엄" width="979"
+                                                                                height="677" loading="lazy"
+                                                                                style="width: 979px; height: 677px; object-fit: cover; object-position: 50% 50%;"
+                                                                                fetchpriority="high"></wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw04"
+                                                                 class="MazNVa comp-m1afvw04 wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw04"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw04&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_771ec8838dce429e837cb409b07c7681~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (20).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (20).jpg"
+                                                                                alt="광교레이크더힐 모델하우스와 위치" width="979"
+                                                                                height="677" loading="lazy"
+                                                                                style="width: 979px; height: 677px; object-fit: cover; object-position: 50% 50%;"
+                                                                                fetchpriority="high"></wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw06"
+                                                                 class="MazNVa comp-m1afvw06 wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw06"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw06&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_ae2b0f61c74f466c93f2b80f38fdcb2d~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (21).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (21).jpg"
+                                                                                alt="광교레이크더힐 주택전시관" width="979" height="677"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw08"
+                                                                 class="MazNVa comp-m1afvw08 wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw08"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw08&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_61a05458f65d4d22997d436a92885c62~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (22).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (22).jpg"
+                                                                                alt="광교레이크더힐 분양상담" width="979" height="677"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0c"
+                                                                 class="MazNVa comp-m1afvw0c wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0c"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0c&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:670,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_9091cc084a134af192ee841a2a0d1082~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (24).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (24).jpg"
+                                                                                alt="광교레이크더힐 지하철 역세권" width="979"
+                                                                                height="670" loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0d"
+                                                                 class="MazNVa comp-m1afvw0d wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0d"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0d&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:677,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_92c38c1327304a79a5607ba86350a048~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (25).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (25).jpg"
+                                                                                alt="광교레이크더힐 더블역세권" width="979" height="677"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0f"
+                                                                 class="MazNVa comp-m1afvw0f wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0f"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0f&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:684,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_58fb5aa173bf4ba09a4950b37bb28e63~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (26).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (26).jpg"
+                                                                                alt="광교레이크더힐 신수원선" width="979" height="684"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0h"
+                                                                 class="MazNVa comp-m1afvw0h wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0h"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0h&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:671,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_0395ce6329f94a1fa22d97dd3148fbf6~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (27).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (27).jpg"
+                                                                                alt="광교레이크더힐 인동선" width="979" height="671"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0l"
+                                                                 class="MazNVa comp-m1afvw0l wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0l"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0l&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:680,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_5936eca0c05045b6b3e5602bc09a8075~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (28).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (28).jpg"
+                                                                                alt="광교레이크더힐 에버라인 연장" width="979"
+                                                                                height="680" loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                            <div id="comp-m1afvw0m"
+                                                                 class="MazNVa comp-m1afvw0m wixui-image">
+                                                                <div data-testid="linkElement" class="j7pOnl">
+                                                                    <wow-image id="img_comp-m1afvw0m"
+                                                                               class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-m1afvw0m&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:979,&quot;targetHeight&quot;:680,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:3250,&quot;height&quot;:2250,&quot;uri&quot;:&quot;06ec85_d3f786c621744d359b8b8c80079aa84b~mv2.jpg&quot;,&quot;name&quot;:&quot;교육자료 (29).jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name=""
+                                                                               data-has-ssr-src=""><img
+                                                                                src="./layout_files/교육자료 (29).jpg"
+                                                                                alt="광교레이크더힐 용인경전철" width="979" height="680"
+                                                                                loading="lazy"
+                                                                                style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;">
+                                                                    </wow-image>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+                <div id="pinnedBottomRight" class="pinnedBottomRight">
+                    <div id="comp-jgfzou9p-pinned-layer" class="comp-jgfzou9p-pinned-layer big2ZD">
+                        <div id="comp-jgfzou9p" class="OQ8Tzd comp-jgfzou9p"
+                             style="width: 230px; height: 86px; content: attr(x);">
+                            <iframe class="nKphmK" title="Wix Chat" aria-label="Wix Chat" scrolling="no"
+                                    src="./layout_files/index.html" allowfullscreen="" allowtransparency="true"
+                                    allowvr="true" frameborder="0"
+                                    allow="clipboard-write;autoplay;camera;microphone;geolocation;vr"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <footer id="SITE_FOOTER" class="AT7o0U SITE_FOOTER wixui-footer" tabindex="-1">
+                    <div class="lvxhkV"></div>
+                    <div class="cKxVkc">
+                        <div class="vlM3HR"></div>
+                        <div class="VrZrC0">
+                            <div data-mesh-id="SITE_FOOTERinlineContent" data-testid="inline-content" class="">
+                                <div data-mesh-id="SITE_FOOTERinlineContent-gridContainer"
+                                     data-testid="mesh-container-content">
+                                    <section id="comp-inwmq0sk" class="comp-inwmq0sk CohWsy wixui-column-strip">
+                                        <div id="bgLayers_comp-inwmq0sk" data-hook="bgLayers"
+                                             data-motion-part="BG_LAYER" class="if7Vw2">
+                                            <div data-testid="colorUnderlay" class="tcElKx i1tH8h"></div>
+                                            <div id="bgMedia_comp-inwmq0sk" data-motion-part="BG_MEDIA"
+                                                 class="wG8dni"></div>
+                                        </div>
+                                        <div data-testid="columns" class="V5AUxf">
+                                            <div id="mediair9xn4sg1"
+                                                 class="mediair9xn4sg1 YzqVVZ wixui-column-strip__column">
+                                                <div id="bgLayers_mediair9xn4sg1" data-hook="bgLayers"
+                                                     data-motion-part="BG_LAYER" class="MW5IWV">
+                                                    <div data-testid="colorUnderlay" class="LWbAav Kv1aVt"></div>
+                                                    <div id="bgMedia_mediair9xn4sg1" data-motion-part="BG_MEDIA"
+                                                         class="VgO9Yg"></div>
+                                                </div>
+                                                <div data-mesh-id="mediair9xn4sg1inlineContent"
+                                                     data-testid="inline-content" class="">
+                                                    <div data-mesh-id="mediair9xn4sg1inlineContent-gridContainer"
+                                                         data-testid="mesh-container-content">
+                                                        <div data-mesh-id="comp-inwmq0sv-rotated-wrapper">
+                                                            <div id="comp-inwmq0sv"
+                                                                 class="MazNVa comp-inwmq0sv wixui-image rYiAuL"><a
+                                                                        data-testid="linkElement"
+                                                                        data-anchor="SCROLL_TO_TOP"
+                                                                        href="https://www.lakethehill.com/%EC%9E%85%EC%A7%80%ED%99%98%EA%B2%BD"
+                                                                        target="_self" class="j7pOnl">
+                                                                    <wow-image id="img_comp-inwmq0sv" class="HlRz5e BI8PVQ"
+                                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-inwmq0sv&quot;,&quot;displayMode&quot;:&quot;full&quot;,&quot;targetWidth&quot;:39,&quot;targetHeight&quot;:20,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:33,&quot;height&quot;:17,&quot;uri&quot;:&quot;dbbdc91820535cbbeb0664011cb93255.png&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;full&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                                               data-motion-part="BG_IMG"
+                                                                               data-bg-effect-name="" data-has-ssr-src="">
+                                                                        <img src="./layout_files/dbbdc91820535cbbeb0664011cb93255.png"
+                                                                             alt="광교레이크더힐 분양상담"
+                                                                             style="width: 39px; height: 20px; object-fit: contain; object-position: center center;"
+                                                                             width="39" height="20" loading="lazy"
+                                                                             data-ssr-src-done="true" fetchpriority="high">
+                                                                    </wow-image>
+                                                                </a></div>
+                                                        </div>
+                                                        <div id="comp-inwmq0sr"
+                                                             class="HcOXKn SxM0TO QxJLC3 lq2cno comp-inwmq0sr wixui-rich-text"
+                                                             data-testid="richTextElement"><p
+                                                                    style="text-align:center; font-size:16px;"
+                                                                    class="font_8 wixui-rich-text__text"><a
+                                                                        href="https://www.lakethehill.com/%EC%9E%85%EC%A7%80%ED%99%98%EA%B2%BD"
+                                                                        target="_self" data-anchor="SCROLL_TO_TOP"
+                                                                        class="wixui-rich-text__text"><span
+                                                                            class="color_36 wixui-rich-text__text">BACK TO&nbsp;TOP</span></a>
+                                                            </p>
+                                                        </div>
+                                                        <div id="comp-inwmq0sx"
+                                                             class="HcOXKn c9GqVL QxJLC3 lq2cno comp-inwmq0sx wixui-rich-text"
+                                                             data-testid="richTextElement" data-motion-enter="done"><p
+                                                                    class="font_8 wixui-rich-text__text"
+                                                                    style="font-size:16px; line-height:1.5em;"><span
+                                                                        style="letter-spacing:normal;"
+                                                                        class="wixui-rich-text__text"><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">현장주소:&nbsp;</span></span><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">경기도&nbsp; 용인시 기흥구 영덕동&nbsp;</span></span><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">│ 대표번호: 1877-0878</span></span><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">ㅣ&nbsp; 시행사: 하나자산신탁</span></span><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">ㅣ 위탁사</span></span><span
+                                                                            style="font-size:16px;"
+                                                                            class="wixui-rich-text__text"><span
+                                                                                class="color_36 wixui-rich-text__text">: 엠브이지 주식회사ㅣ 책임관리자:&nbsp; 김형철</span></span></span>
+                                                            </p></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+        <div id="SCROLL_TO_BOTTOM" class="Vd6aQZ ignore-focus SCROLL_TO_BOTTOM" tabindex="-1" role="region"
+             aria-label="bottom of page"><span class="mHZSwn">bottom of page</span></div>
+    </div>
+</div>
 
 
     <script type="application/json" id="wix-fedops">{"data":{"site":{"metaSiteId":"c393a743-555c-4f72-83dc-73f0bb3bf37f","userId":"06ec858a-9dc1-458c-83b1-a097ac8cd8fa","siteId":"ed0b2471-08b7-405a-9906-e7ece72e724d","externalBaseUrl":"https:\/\/www.lakethehill.com","siteRevision":47,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"c093a0b6-f45f-4c7d-8854-f9c6e77f1fb9","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"requestUrl":"https:\/\/www.lakethehill.com\/","isInSEO":false,"platformOnSite":true}}</script>
@@ -1094,3 +1476,11 @@ font-display: swap;
 
 
 </body></html>
+<script type="text/javascript">
+    <!--
+
+    $("#DrpDwnMn0-jgk").css("visibility", "visible");
+    $("#DrpDwnMn0-jgk2").attr("data-state", "menu selected link");
+
+    //-->
+</script>
