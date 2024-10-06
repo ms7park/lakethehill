@@ -1,105 +1,96 @@
-
-<!-- 하단 시작 { -->
-<div id="ft">
-    <div class="copyright container">
-        <div class="info">
-            <p>분양문의 <strong>010-3235-0049</strong></p>
-            <p>지하3층 지상20층 총640호실</p>
-        </div>
-        <div class="address">
-            <div class="left">
-                <p>홍보관 : 강원특별자치도 원주시 서원대로 438(단구동997)</p>
-                <p>사업지 : 강원특별자치도 원주시 반곡동 2042 </p>
-
-                <p class="txt-dark">※ 상기 이미지 및 일러스트 등은 소비자의 이해를 돕기 위해 합성 또는 제작된 것으로 인·허가 과정 및 실 시공 과정에서 변경될 수 있습니다.<br>
-※ 본 홈페이지는 소비자의 이해를 돕기 위해 사전홍보용으로 제작된 것으로 실제와 다를 수 있으니 견본주택 및 현장을 방문하시어 직접 확인하시기 바랍니다.</p>
-            </div>
-            <div class="right">
-                <p><span class="txt-dark">시행</span><img src="./img/footer_1.svg" alt="뿌리깊은나무들(주)"></p>
-                <p><span class="txt-dark">신탁</span><img src="./img/footer_2.svg" alt="신한자산신탁"></p>
-                <p><span class="txt-dark">시공</span><img src="./img/footer_3.svg" alt="(주)태왕E&amp;C"></p>
+<footer id="SITE_FOOTER" class="AT7o0U SITE_FOOTER wixui-footer" tabindex="-1">
+    <div class="lvxhkV"></div>
+    <div class="cKxVkc">
+        <div class="vlM3HR"></div>
+        <div class="VrZrC0">
+            <div data-mesh-id="SITE_FOOTERinlineContent" data-testid="inline-content" class="">
+                <div data-mesh-id="SITE_FOOTERinlineContent-gridContainer"
+                     data-testid="mesh-container-content">
+                    <section id="comp-inwmq0sk" class="comp-inwmq0sk CohWsy wixui-column-strip">
+                        <div id="bgLayers_comp-inwmq0sk" data-hook="bgLayers"
+                             data-motion-part="BG_LAYER" class="if7Vw2">
+                            <div data-testid="colorUnderlay" class="tcElKx i1tH8h"></div>
+                            <div id="bgMedia_comp-inwmq0sk" data-motion-part="BG_MEDIA"
+                                 class="wG8dni"></div>
+                        </div>
+                        <div data-testid="columns" class="V5AUxf">
+                            <div id="mediair9xn4sg1"
+                                 class="mediair9xn4sg1 YzqVVZ wixui-column-strip__column">
+                                <div id="bgLayers_mediair9xn4sg1" data-hook="bgLayers"
+                                     data-motion-part="BG_LAYER" class="MW5IWV">
+                                    <div data-testid="colorUnderlay" class="LWbAav Kv1aVt"></div>
+                                    <div id="bgMedia_mediair9xn4sg1" data-motion-part="BG_MEDIA"
+                                         class="VgO9Yg"></div>
+                                </div>
+                                <div data-mesh-id="mediair9xn4sg1inlineContent"
+                                     data-testid="inline-content" class="">
+                                    <div data-mesh-id="mediair9xn4sg1inlineContent-gridContainer"
+                                         data-testid="mesh-container-content">
+                                        <div data-mesh-id="comp-inwmq0sv-rotated-wrapper">
+                                            <div id="comp-inwmq0sv"
+                                                 class="MazNVa comp-inwmq0sv wixui-image rYiAuL"><a
+                                                        data-testid="linkElement"
+                                                        data-anchor="SCROLL_TO_TOP"
+                                                        href="/"
+                                                        target="_self" class="j7pOnl">
+                                                    <wow-image id="img_comp-inwmq0sv"
+                                                               class="HlRz5e BI8PVQ"
+                                                               data-image-info="{&quot;containerId&quot;:&quot;comp-inwmq0sv&quot;,&quot;displayMode&quot;:&quot;full&quot;,&quot;targetWidth&quot;:39,&quot;targetHeight&quot;:20,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:33,&quot;height&quot;:17,&quot;uri&quot;:&quot;dbbdc91820535cbbeb0664011cb93255.png&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;full&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
+                                                               data-motion-part="BG_IMG"
+                                                               data-bg-effect-name=""
+                                                               data-has-ssr-src="true"><img
+                                                                src="./img/dbbdc91820535cbbeb0664011cb93255.png"
+                                                                alt="광교레이크더힐 분��양상담"
+                                                                style="width:100%;height:100%;object-fit:contain;object-position:unset"
+                                                                width="39" height="20" loading="lazy">
+                                                    </wow-image>
+                                                </a></div>
+                                        </div>
+                                        <div id="comp-inwmq0sr"
+                                             class="HcOXKn SxM0TO QxJLC3 lq2cno comp-inwmq0sr wixui-rich-text"
+                                             data-testid="richTextElement"><p
+                                                    style="text-align:center; font-size:16px;"
+                                                    class="font_8 wixui-rich-text__text"><a
+                                                        href="/"
+                                                        target="_self" data-anchor="SCROLL_TO_TOP"
+                                                        class="wixui-rich-text__text"><span
+                                                            class="color_36 wixui-rich-text__text">BACK TO&nbsp;TOP</span></a>
+                                            </p>
+                                        </div>
+                                        <div id="comp-inwmq0sx"
+                                             class="HcOXKn c9GqVL QxJLC3 lq2cno comp-inwmq0sx wixui-rich-text"
+                                             data-testid="richTextElement"><p
+                                                    class="font_8 wixui-rich-text__text"
+                                                    style="font-size:16px; line-height:1.5em;"><span
+                                                        style="letter-spacing:normal;"
+                                                        class="wixui-rich-text__text"><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">현장주소:&nbsp;</span></span><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">경기도&nbsp; 용인시 기흥구 영덕동&nbsp;</span></span><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">│ 대표번호: 010-3235-0049</span></span><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">ㅣ&nbsp; 시행사: 하나자산신탁</span></span><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">ㅣ 위탁사</span></span><span
+                                                            style="font-size:16px;"
+                                                            class="wixui-rich-text__text"><span
+                                                                class="color_36 wixui-rich-text__text">: 엠브이지 주식회사ㅣ 책임관리자:&nbsp; 박원식 부장</span></span></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
-    <button type="button" id="top_btn">
-    	<i class="fa fa-arrow-up" aria-hidden="true"></i><span class="sound_only">상단으로</span>
-    </button>
-    <script>
-    $(function() {
-        $("#top_btn").on("click", function() {
-            $("html, body").animate({scrollTop:0}, '500');
-            return false;
-        });
-    });
-    </script>
-</div>
-
-
-<script>
-	$(document).ready(function() {
-		try {
-		  $('#nav').onePageNav({
-			begin: function() {
-			  console.log('start')
-			},
-			end: function() {
-			  console.log('stop')
-			}
-		  });
-		} catch(e){}
-
-	  $('map').imageMapResize();
-
-    var wow = new WOW(
-      {
-        boxClass:     'wow',      // animated element css class (default is wow)
-        animateClass: 'animate__animated', // animation css class (default is animated)
-        offset:       0,          // distance to the element when triggering the animation (default is 0)
-        mobile:       true,       // trigger animations on mobile devices (default is true)
-        live:         true,       // act on asynchronously loaded content (default is true)
-        callback:     function(box) {
-          // the callback is fired every time an animation is started
-          // the argument that is passed in is the DOM node being animated
-        },
-        scrollContainer: null,    // optional scroll container selector, otherwise use window,
-        resetAnimation: true,     // reset animation on end (default is true)
-      }
-    );
-    wow.init();
-	});
-	</script>
-
-
-<!-- } 하단 끝 -->
-
-<script>
-  $(function() {
-      // 폰트 리사이즈 쿠키있으면 실행
-      font_resize("container", get_cookie("ck_font_resize_rmv_class"), get_cookie("ck_font_resize_add_class"));
-  });
-
-  AOS.init(); // 자바스크립트로 init()을 해야 동작한다.
-</script>
-
-
-
-<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
-<!--[if lte IE 7]>
-<script>
-$(function() {
-    var $sv_use = $(".sv_use");
-    var count = $sv_use.length;
-
-    $sv_use.each(function() {
-        $(this).css("z-index", count);
-        $(this).css("position", "relative");
-        count = count - 1;
-    });
-});
-</script>
-<![endif]-->
-
-</div><!--wrap-->
-
-
-</body></html>
+</footer>

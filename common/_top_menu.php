@@ -39,13 +39,6 @@
                                      srcset="https://static.wixstatic.com/media/06ec85_5a104c8272d44420b1fd067ee9d71bef~mv2.jpg/v1/fill/w_335,h_80,al_c,q_80,usm_1.20_1.00_0.01,enc_auto/00.jpg 1x, https://static.wixstatic.com/media/06ec85_5a104c8272d44420b1fd067ee9d71bef~mv2.jpg/v1/fill/w_670,h_160,al_c,q_80,usm_1.20_1.00_0.01,enc_auto/00.jpg 2x"
                                      fetchpriority="high"></wow-image>
                         </a></div>
-                    <div id="comp-jq0qmxkf" class="MazNVa comp-jq0qmxkf wixui-image rYiAuL"><a
-                                data-testid="linkElement" href="tel:010-3235-0049" class="j7pOnl">
-                            <wow-image id="img_comp-jq0qmxkf" class="HlRz5e BI8PVQ"
-                                       data-image-info="{&quot;containerId&quot;:&quot;comp-jq0qmxkf&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:262,&quot;targetHeight&quot;:80,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:651,&quot;height&quot;:200,&quot;uri&quot;:&quot;06ec85_c9b3b93566404677bf8328031a670046~mv2.jpg&quot;,&quot;name&quot;:&quot;전화번호22.jpg&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;quality&quot;:{&quot;unsharpMask&quot;:{&quot;radius&quot;:1.2,&quot;amount&quot;:1,&quot;threshold&quot;:0.01}}}}"
-                                       data-motion-part="BG_IMG" data-bg-effect-name="" data-has-ssr-src="">
-                                </wow-image>
-                        </a></div>
                     <wix-dropdown-menu id="DrpDwnMn0-jgk"
                                        class="YXlfNd XRwtpn DrpDwnMn0-jgk wixui-dropdown-menu hidden-during-prewarmup"
                                        tabindex="-1" dir="ltr"
@@ -58,6 +51,22 @@
                         <nav class="SvGGzE" id="DrpDwnMn0-jgknavContainer" aria-label="사이트">
                             <ul class="CkCpUo" id="DrpDwnMn0-jgkitemsContainer" style="text-align:right"
                                 data-marginallchildren="true">
+                                <li data-direction="ltr" data-listposition="center"
+                                    data-data-id="bmi1q64" data-state="menu false  link"
+                                    data-index="0" class="L3ZIQx wixui-dropdown-menu__item pr7XQM"
+                                    data-original-gap-between-text-and-btn="10" aria-hidden="false"
+                                    style="width: 151px; height: 36px; position: relative; box-sizing: border-box; overflow: visible; visibility: inherit;">
+                                    <a data-testid="linkElement" href="tel:010-3235-0049"
+                                       target="_self" class="rcIF9K" aria-haspopup="false">
+                                        <div class="nzVyrk">
+                                            <div class="VCJeT5">
+                                                <div class="" style="text-align:center"><p
+                                                            class="xYGmQj"
+                                                            style="text-align: center; line-height: 36px;"
+                                                            id="DrpDwnMn0-jgk0label">010-3235-0049</p></div>
+                                            </div>
+                                        </div>
+                                    </a></li>
                                 <li id="DrpDwnMn0-jgk0" data-direction="ltr" data-listposition="center"
                                     data-data-id="bmi1q64" data-state="menu false  link"
                                     data-index="0" class="L3ZIQx wixui-dropdown-menu__item pr7XQM"
